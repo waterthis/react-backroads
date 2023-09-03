@@ -1,7 +1,7 @@
 # Backroads App
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/422d139a-f60a-43d9-bfc5-4454e5873539/deploy-status)](https://app.netlify.com/sites/doyo-react-backroads/deploys)
-[Working Application - Deployed](https://backroads-app.netlify.app/)
+[Netlify Status](https://backroads-app.netlify.app/)
 
 - backroads-html - working html/css/javascript project (contains assets)
 - final(complete source code) - working react application
